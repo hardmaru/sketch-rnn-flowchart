@@ -1,10 +1,10 @@
 # sketch-rnn on flowchart diagrams
 
-![flowchart-rnn](card/flowchart_example_from_notebook.png)
-
 Web browser demo (mobile friendly): https://otoro.net/flowchart-rnn/
 
 Multiple prediction demo (not mobile-friendly): https://otoro.net/flowchart-rnn/multi.html
+
+![flowchart-rnn](card/flowchart_example_from_notebook.png)
 
 A small experiment training [`sketch-rnn-js`](https://github.com/tensorflow/magenta-demos/tree/master/sketch-rnn-js) on a flowchart dataset.
 
