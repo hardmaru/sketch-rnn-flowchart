@@ -2,7 +2,16 @@
 
 ![flowchart-rnn](card/flowchart_example_from_notebook.png)
 
-Small experiment training [sketch-rnn-js](https://github.com/tensorflow/magenta-demos/tree/master/sketch-rnn-js) on flowchart dataset.
+Small experiment training [`sketch-rnn-js`](https://github.com/tensorflow/magenta-demos/tree/master/sketch-rnn-js) on a flowchart dataset.
+
+- `sketch-rnn` paper: https://arxiv.org/abs/1704.03477
+
+- `sketch-rnn` blog: https://research.googleblog.com/2017/04/teaching-machines-to-draw.html
+
+- didi dataset paper: https://arxiv.org/abs/2002.09303
+
+- didi dataset: https://github.com/google-research/google-research/tree/master/didi_dataset
+
 
 # citations
 
@@ -23,11 +32,6 @@ Small experiment training [sketch-rnn-js](https://github.com/tensorflow/magenta-
   year={2020}
 }
 ```
-
-sketch-rnn paper: https://arxiv.org/abs/1704.03477
-blog: https://research.googleblog.com/2017/04/teaching-machines-to-draw.html
-dataset paper: https://arxiv.org/abs/2002.09303
-didi dataset: https://github.com/google-research/google-research/tree/master/didi_dataset
 
 # license
 
