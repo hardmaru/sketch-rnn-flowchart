@@ -12,6 +12,8 @@ A small experiment training [`sketch-rnn-js`](https://github.com/tensorflow/mage
 
 - `sketch-rnn` blog post: https://blog.otoro.net/2017/05/19/teaching-machines-to-draw/
 
+- `sketch-rnn` tensorflow: https://github.com/tensorflow/magenta/tree/master/magenta/models/sketch_rnn
+
 - didi dataset paper: https://arxiv.org/abs/2002.09303
 
 - didi dataset: https://github.com/google-research/google-research/tree/master/didi_dataset
