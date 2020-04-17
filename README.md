@@ -1,12 +1,12 @@
-# training sketch-rnn on flowchart diagrams
+# sketch-rnn on flowchart diagrams
 
 ![flowchart-rnn](card/flowchart_example_from_notebook.png)
 
-Small experiment training [`sketch-rnn-js`](https://github.com/tensorflow/magenta-demos/tree/master/sketch-rnn-js) on a flowchart dataset.
+A small experiment training [`sketch-rnn-js`](https://github.com/tensorflow/magenta-demos/tree/master/sketch-rnn-js) on a flowchart dataset.
 
 - `sketch-rnn` paper: https://arxiv.org/abs/1704.03477
 
-- `sketch-rnn` blog: https://research.googleblog.com/2017/04/teaching-machines-to-draw.html
+- `sketch-rnn` blog post: https://blog.otoro.net/2017/05/19/teaching-machines-to-draw/
 
 - didi dataset paper: https://arxiv.org/abs/2002.09303
 
