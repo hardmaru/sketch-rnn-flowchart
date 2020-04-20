@@ -18,6 +18,7 @@ A small experiment training [`sketch-rnn-js`](https://github.com/tensorflow/mage
 
 - didi dataset: https://github.com/google-research/google-research/tree/master/didi_dataset
 
+![flowchart-rnn](card/sketch-rnn-svg.svg)
 
 # citations
 
