@@ -18,7 +18,9 @@ A small experiment training [`sketch-rnn-js`](https://github.com/tensorflow/mage
 
 - didi dataset: https://github.com/google-research/google-research/tree/master/didi_dataset
 
-![flowchart-rnn](card/sketch-rnn-svg.svg)
+![flowchart-rnn](card/sketch-rnn.svg)
+
+[*saved example*](https://otoro.net/flowchart-rnn/share.html?s=f38Bf78BgoABj4IBjIEBiYABhX8Bg3wBhnMBgm4BgW0Bf3ABeH4BXX8Bb30BcX8AlaQBcIoBcIwAg3ABdYgBeYcBgoABhYEBh4AAPW0BdJIBdpQBe44Bf4YBgIABhIABj34BmHwBmXsBhHYBhW8BgnMBgHEBfn0BfH0BZ30BYIIBdoEAcLUBeoQBeIYBdIwBbZgBeIkBeYoAfm0BfIsBgIIBgoABh34BinoARoEBfIMBfIUBdZcBd5UBoH4BkYEBin8BhXcBiWYBg3UBgHsBfnsBfX0BcnwBZ30BdYAA/ksBb5EBdY0BeogBfYcBf4MBgYEBhIEBkoIBnn0Bh30Bg30BgnwBiWIBgXYBf3sBWn8Ban8BeIAAf6oBdoYBYZMBdoYAg3EBd4wBfYQBgoABiH0AYGYBfJABgIcBgIMBhIkBgoMBgoEBhIEBlX4BiHsBi3UBg3kBgHsBf3kBfHYBengBeXoBd3sBcXwBeH8BcoUBeoQBeocBfYUA34EBeYABfIABeoQBfIQBf4IBgoMBhYEAfnMBjH8BmX8AjnABeX8Ba4QBfIABfYEBfoQBgIUBgYMBgoMBiYUBkIUBioABiH4BhH0BhnoBgnkBgHkBfnoBencBeXoBeXwBeX4Ben8BeoABeoIBeoQBfYMAvoMA)
 
 # citations
 
